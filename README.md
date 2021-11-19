@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Denis</h1>
+<h2 align="left">Hi �👋🏼Medium-Light Skin Tone, I'm Denis</h1>
 <!-- <h3 align="left">Junior Data Scientist</h3> -->
 
 <h3 align="left">I'm working with:</h3>
